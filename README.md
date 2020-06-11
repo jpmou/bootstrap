@@ -13,6 +13,9 @@ none
 
 ### Change Log
 
+###### 06/11/2020
+* Updated to Bootstrap 4.5.0
+
 ###### 11/12/2019
 * Updated to Bootstrap 4.3.1
 
