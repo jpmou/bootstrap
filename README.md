@@ -4,7 +4,7 @@ Based on V 4.x
 
 ### Prerequisites
 
-none
+* none
 
 
 ### Author
@@ -12,6 +12,10 @@ none
 * **Jean-Pierre Mouret**
 
 ### Change Log
+
+###### 11/18/2020
+* Updated to Bootstrap 4.5.3
+* Introducing Ionicons 5.2.3
 
 ###### 06/11/2020
 * Updated to Bootstrap 4.5.0
@@ -31,4 +35,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * https://getbootstrap.com
 * https://realfavicongenerator.net
-* https://jqueryvalidation.org
+* https://w3schools.com/bootstrap4
+* https://fontawesome.com
