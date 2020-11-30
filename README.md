@@ -36,4 +36,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * https://getbootstrap.com
 * https://realfavicongenerator.net
 * https://w3schools.com/bootstrap4
-* https://fontawesome.com
+* https://ionicons.com
