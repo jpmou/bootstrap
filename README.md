@@ -31,7 +31,7 @@ Based on V 4.x
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-### Acknowledgments
+### Acknowledgments лдесфыыы
 
 * https://getbootstrap.com
 * https://realfavicongenerator.net
