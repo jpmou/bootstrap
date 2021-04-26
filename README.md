@@ -13,6 +13,10 @@ Based on V 4.x
 
 ### Change Log
 
+###### 04/26/2021
+* Updated to Bootstrap 4.6.0
+* Updated to Ionicons 5.4.0
+
 ###### 11/18/2020
 * Updated to Bootstrap 4.5.3
 * Introducing Ionicons 5.2.3
